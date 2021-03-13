@@ -19,3 +19,5 @@ This repository contains some basic Linux system administration scripts, Ansible
     - Config file for forwarding log data to Elasticsearch and Logstash
   
 ### Diagrams
+  - [Azure_Network.drawio](https://drive.google.com/file/d/19tH98LjTfFB3xDwcU_hn8LkQMCqZBSfl/view?usp=sharing)
+    - This is a diagram of the virtual network created during week 13 of class which will be used for future practice with security tools and monitoring. 
