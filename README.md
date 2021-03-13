@@ -6,5 +6,6 @@ This repository contains some basic Linux system administration scripts, Ansible
     - OS type and version
     - CPU model and speed
     - available memory
+  - update.sh simply updates and upgrades all existing services and packages on the system. 
 ### Ansible
 ### Diagrams
