@@ -6,6 +6,9 @@ This repository contains some basic Linux system administration scripts, Ansible
     - OS type and version
     - CPU model and speed
     - available memory
-  - update.sh simply updates and upgrades all existing services and packages on the system. 
+  - update.sh
+    - simply updates and upgrades all existing services and packages on the system. 
+  - backup.sh 
+    - this script creates a backup of everything in the /home directory and saves it to /var/backups
 ### Ansible
 ### Diagrams
